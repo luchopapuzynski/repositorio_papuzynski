@@ -1,0 +1,85 @@
+/* Estilos personalizados */
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Estilos del encabezado */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #0f0e0e;
+    font-size: 18px;
+    margin-left: 10px;
+  }
+  
+  /* Estilos del jumbotron */
+  .jumbotron {
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #120101;
+    padding: 100px 0;
+  }
+  
+  .jumbotron h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .jumbotron p {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  
+  .jumbotron .btn-primary {
+    font-size: 20px;
+    padding: 10px 40px;
+  }
+  
+  /* Estilos del contenido principal */
+  main {
+    padding: 40px 0;
+  }
+  
+  main h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  main p {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+  
+  /* Estilos del pie de página */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  footer p {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
