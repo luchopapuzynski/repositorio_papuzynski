@@ -3,6 +3,7 @@
 /* Estilos generales */
 body {
     font-family: Arial, sans-serif;
+    background-color: #8583f5c9;
     margin: 0;
     padding: 0;
   }
@@ -15,8 +16,8 @@ body {
   
   /* Estilos del encabezado */
   header {
-    background-color: #333;
-    color: #fff;
+    background-color: #8583f5c9;
+    color: #120133;
     padding: 10px;
   }
   
@@ -75,7 +76,7 @@ body {
   /* Estilos del pie de página */
   footer {
     background-color: #333;
-    color: #fff;
+    color: #120133;
     padding: 20px 0;
   }
   
