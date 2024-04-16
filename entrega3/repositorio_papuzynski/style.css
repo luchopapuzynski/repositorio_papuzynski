@@ -1,0 +1,59 @@
+/* Estilos CSS */
+
+/* Color de fondo celeste para el cuerpo */
+body {
+  background-color: #87CEEB; /* Celeste */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Estilos para el encabezado */
+header {
+  background-color: #007bff; /* Azul */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Estilos para el carrusel */
+#carouselExampleIndicators {
+  margin-top: 20px;
+}
+
+#carouselExampleIndicators .carousel-control-prev,
+#carouselExampleIndicators .carousel-control-next {
+  width: 5%;
+}
+
+#carouselExampleIndicators .carousel-control-prev:hover,
+#carouselExampleIndicators .carousel-control-next:hover {
+  color: #007bff; /* Azul */
+}
+
+/* Estilos para la barra de navegación */
+header .navbar-brand {
+  color: #044587; /* Azul */
+}
+
+
+
+header .navbar-nav .nav-link:hover {
+  color: #02192e; /* Azul más oscuro */
+}
+
+
+
+/* Estilos para las columnas de productos */
+.col {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.col img {
+  width: 100%;
+}
+
+.col p {
+  margin-top: 15px;
+}
+
+
